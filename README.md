@@ -1,2 +1,2 @@
 # happybirthday
-https://whl.github.io/happybirthday/
+https://Android-BRUCE.github.io/happybirthday/
