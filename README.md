@@ -1,2 +1,2 @@
 # happybirthday
-https://zjh02249.github.io/happybirthday/
+https://zjh02249.github.io
